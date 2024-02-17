@@ -1,20 +1,26 @@
 # MATLAB 
 --Task report
-##1. Image Enhancement Techniques:
+
+#1. Image Enhancement Techniques:
 
 Brightness Adjustment: The brightness was adjusted by adding a constant value to all pixel intensities. This is a simple method to control image brightness.
 Contrast Enhancement: MATLAB's imadjust function was used to enhance image contrast by specifying contrast limits. Adjusting these limits can effectively improve the image contrast.
 Noise Reduction: Gaussian filtering using imgaussfilt was applied to reduce noise. The filter size and standard deviation were adjusted for the desired level of noise reduction.
-##2. Edge Detection Techniques:
+
+</br>
+#2. Edge Detection Techniques:
 
 Sobel Edge Detection: Sobel algorithm was applied to detect edges. The resulting image emphasizes edges based on the gradient magnitude.
 Prewitt Edge Detection: Prewitt algorithm was used for edge detection, providing another approach to emphasize edges based on gradient information.
-##3. Observations:
+
+</br>
+#3. Observations:
 
 Brightness adjustment visibly changes the overall brightness of the image.
 Contrast enhancement enhances the difference between light and dark regions in the image.
 Noise reduction smoothens the image and reduces unwanted artifacts.
 Sobel and Prewitt edge detection algorithms highlight edges, but with different emphasis and patterns.
+</br>
 4. Outcomes:
 
 The combined application of these techniques allows for comprehensive image enhancement and edge detection.
