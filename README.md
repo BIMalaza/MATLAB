@@ -21,6 +21,7 @@ Contrast enhancement enhances the difference between light and dark regions in t
 Noise reduction smoothens the image and reduces unwanted artifacts.
 Sobel and Prewitt edge detection algorithms highlight edges, but with different emphasis and patterns.
 </br>
+
 4. Outcomes:
 
 The combined application of these techniques allows for comprehensive image enhancement and edge detection.
